@@ -1,0 +1,1 @@
+Instructions to load/execute the code:Open pgAdmin, create the database named public_library, then create a schema called library.Test_Entities.sql file is used to create the entities and insert the values in the entities, please open the file and run the commands.Queries.sql file is used for running the queries, please open the file and run the queries.
